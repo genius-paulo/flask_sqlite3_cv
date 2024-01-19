@@ -1,0 +1,5 @@
+Чтобы начать работу в виртуальном окружение, набрать команды:
+    cd /Users/pavelfedorenko/Desktop/Projects/FlaskPetProject
+    source venv/bin/activate
+
+Чтобы закончить работу в виртуальном окружении, набрать команду deactivate
